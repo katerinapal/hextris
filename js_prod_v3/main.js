@@ -1,3 +1,20 @@
+var canRestart;
+var waveone;
+var comboTime;
+var gdy;
+var gdx;
+var MainHex;
+var scoreOpacity;
+var op;
+var spawnLane;
+var prevScore;
+var score;
+var isGameOver;
+var importedHistory;
+var startTime;
+var importing;
+var gameState;
+var trueCanvas;
 function scaleCanvas() {
     canvas.width = $(window).width();
     canvas.height = $(window).height();

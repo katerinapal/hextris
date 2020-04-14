@@ -1,3 +1,4 @@
+var canRestart;
 function addKeyListeners() {
     keypress.register_combo({
         keys: "left",

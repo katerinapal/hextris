@@ -1,3 +1,5 @@
+var gdy;
+var gdx;
 function Hex(sideLength) {
 	this.playThrough = 0;
 	this.fillColor = [44,62,80];

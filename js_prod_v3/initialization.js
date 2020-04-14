@@ -1,3 +1,6 @@
+var highscores;
+var settings;
+var op;
 $(document).ready(function() {
     initialize();
     $('#bottombar').hide();

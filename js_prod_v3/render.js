@@ -1,3 +1,4 @@
+var op;
 function render() {
 	var grey = '#bdc3c7';
 	if (gameState === 0) {
